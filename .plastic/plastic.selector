@@ -1,0 +1,4 @@
+repository "Invader Zero@BSS@cloud"
+  path "/"
+    br "/main"
+    co "/main"
